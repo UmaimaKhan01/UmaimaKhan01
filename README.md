@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Umaima Khan!
+# 👋 Hey, I'm Umaima!
 
 🎓 AI Grad Student @ UCF  
 🧠 Focus: Computer Vision | Deep Learning  
