@@ -2,7 +2,7 @@
 
 🎓 AI Grad Student @ UCF  
 🧠 Focus: Computer Vision | Deep Learning  
-🚂 Incoming Computer Vision Intern @ Norfolk Southern (Summer 2025)  
+🚂 Computer Vision Intern @ Norfolk Southern (Summer 2025)  
 📍 Orlando, FL | 📫 fn653419@ucf.edu  
 
 ## 🔍 About Me
