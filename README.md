@@ -9,9 +9,6 @@
 
 I'm a graduate student at the University of Central Florida pursuing an M.S. in Artificial Intelligence with a concentration in Computer Vision. I'm passionate about building AI systems that see, understand, and transform the world around us. My professional journey includes deploying scalable ML systems, fine-tuning large models, and leveraging distributed computing to solve complex problems.
 
-In Summer 2025, I’ll be joining **Norfolk Southern** as a **Computer Vision Intern**, where I’ll contribute to cutting-edge ML applications in transportation and logistics.
-I love turning research into real-world impact. 
-
 ## 🚀 Highlight Projects
 
 - 🏥 [Multi-Disease AI Diagnostic Platform](https://github.com/UmaimaKhan01/Multi-Disease-AI-Diagnostic-Platform): Unified deep learning system for diagnosing 5 diseases from medical images with explainable Grad-CAM insights.
@@ -21,11 +18,13 @@ I love turning research into real-world impact.
 
 ## 🧠 Skills & Tools
 
-**Languages:** Python, C++, Rust, SQL  
-**AI/ML:** PyTorch, TensorFlow, Scikit-learn, Transformers, PySpark  
-**CV:** YOLOv5, R-CNN, DETR, ViT, OpenCV  
-**Tools:** Docker, Kubernetes, AWS, Azure, Git, Linux  
-**Topics:** Image Segmentation, Pose Estimation, GANs, MLOps, LLMs
+Programming Languages: Python, C++, Rust, TypeScript, SQL, MATLAB, R
+Developer Tools: Linux (Shell Scripting), AWS (EC2, S3, Lambda), Azure (DevOps), Git (Version Control), Docker, Kubernetes, MongoDB (NoSQL
+Databases)
+AI/ML: TensorFlow, PyTorch, Keras, Scikit-learn, PySpark, Transformers, LoRA, RAG, LLM Development and Evaluation, Prompt Engineering,
+Generative AI (GANs, VAEs), NLP (Sentiment Analysis, Text Summarization), Cognitive Computing, AI Ethics, Reinforcement Learning, MLOps
+Computer Vision: Depth Estimation, Perception Engineering, Vision-based Object Detection (SSD, YOLO, R-CNN, Faster R-CNN), Image
+Segmentation (Semantic, Instance), Pose Estimation, OpenC
 
 ---
 
