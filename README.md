@@ -18,12 +18,12 @@ I'm a graduate student at the University of Central Florida pursuing an M.S. in 
 
 ## 🧠 Skills & Tools
 
-Programming Languages: Python, C++, Rust, TypeScript, SQL, MATLAB, R
-Developer Tools: Linux (Shell Scripting), AWS (EC2, S3, Lambda), Azure (DevOps), Git (Version Control), Docker, Kubernetes, MongoDB (NoSQL
+**Programming Languages**: Python, C++, Rust, TypeScript, SQL, MATLAB, R
+**Developer Tools**: Linux (Shell Scripting), AWS (EC2, S3, Lambda), Azure (DevOps), Git (Version Control), Docker, Kubernetes, MongoDB (NoSQL
 Databases)
-AI/ML: TensorFlow, PyTorch, Keras, Scikit-learn, PySpark, Transformers, LoRA, RAG, LLM Development and Evaluation, Prompt Engineering,
+**AI/ML**: TensorFlow, PyTorch, Keras, Scikit-learn, PySpark, Transformers, LoRA, RAG, LLM Development and Evaluation, Prompt Engineering,
 Generative AI (GANs, VAEs), NLP (Sentiment Analysis, Text Summarization), Cognitive Computing, AI Ethics, Reinforcement Learning, MLOps
-Computer Vision: Depth Estimation, Perception Engineering, Vision-based Object Detection (SSD, YOLO, R-CNN, Faster R-CNN), Image
+**Computer Vision**: Depth Estimation, Perception Engineering, Vision-based Object Detection (SSD, YOLO, R-CNN, Faster R-CNN), Image
 Segmentation (Semantic, Instance), Pose Estimation, OpenC
 
 ---
@@ -35,5 +35,3 @@ Segmentation (Semantic, Instance), Pose Estimation, OpenC
 🧪 Exploring: LLMs x Vision, Edge AI, Explainable ML
 
 ---
-
-> *Building AI that sees, understands, and empowers.*
