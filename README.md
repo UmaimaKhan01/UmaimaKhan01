@@ -24,7 +24,7 @@ Databases)
 **AI/ML**: TensorFlow, PyTorch, Keras, Scikit-learn, PySpark, Transformers, LoRA, RAG, LLM Development and Evaluation, Prompt Engineering,
 Generative AI (GANs, VAEs), NLP (Sentiment Analysis, Text Summarization), Cognitive Computing, AI Ethics, Reinforcement Learning, MLOps
 **Computer Vision**: Depth Estimation, Perception Engineering, Vision-based Object Detection (SSD, YOLO, R-CNN, Faster R-CNN), Image
-Segmentation (Semantic, Instance), Pose Estimation, OpenC
+Segmentation (Semantic, Instance), Pose Estimation, OpenCV
 
 ---
 
