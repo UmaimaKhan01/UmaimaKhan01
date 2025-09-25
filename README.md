@@ -1,10 +1,11 @@
 # 👋 Hey, I'm Umaima!
 
 🎓 AI Grad Student @ UCF  
-🧠 Focus: Computer Vision | Artificial Intelligence | Machine Learning 
-✨AI Research Assistant @ UCF
+✨ AI Research Assistant @ UCF  
 🚂 Computer Vision Intern @ Norfolk Southern (Summer 2025)  
-📍 Orlando, FL | 📫 fn653419@ucf.edu  
+🧠 Focus: Computer Vision | Artificial Intelligence | Machine Learning  
+📍 Orlando, FL  
+📫 umaimakhanfnu@gmail.com  
 
 ## 🔍 About Me
 
