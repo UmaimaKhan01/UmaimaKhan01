@@ -5,7 +5,6 @@
 🚂 Computer Vision Intern @ Norfolk Southern (Summer 2025)  
 🧠 Focus: Computer Vision | Artificial Intelligence | Machine Learning  
 📍 Orlando, FL  
-📫 umaimakhanfnu@gmail.com  
 
 ## 🔍 About Me
 
