@@ -11,10 +11,16 @@ I'm a graduate student at the University of Central Florida pursuing an M.S. in 
 
 ## 🚀 Highlight Projects
 
-- 🏥 [Multi-Disease AI Diagnostic Platform](https://github.com/UmaimaKhan01/Multi-Disease-AI-Diagnostic-Platform): Unified deep learning system for diagnosing 5 diseases from medical images with explainable Grad-CAM insights.
+## 🚀 Projects
 
-- 🚁 [SkyEye – Aerial Object Detection](https://github.com/UmaimaKhan01/SkyEye-Aerial-Object-Detection-using-Yolo): Transformer-enhanced YOLOv5 pipeline for precise detection in drone and surveillance imagery.
+🏥 [**Multi-Disease AI Diagnostic Platform**](https://github.com/UmaimaKhan01/Multi-Disease-AI-Diagnostic-Platform)  
+Unified deep learning framework for diagnosing five diseases from medical images, with explainable Grad-CAM visualizations.  
 
+⚖️ [**Explainable Gender Bias Detection (VLM + CoT)**](https://github.com/UmaimaKhan01/Gender-Bias-in-VLM--Reasoning-using-COT)  
+Vision–language model augmented with chain-of-thought reasoning to detect and explain gender bias in image–caption datasets.  
+
+🖥️ [**Explainable GUI Visual Agent**](https://github.com/UmaimaKhan01/Explainable-GUI-Visual-Agent)  
+Intelligent GUI agent that parses and interacts with screen layouts via OmniParser JSON, enabling automated form filling with reasoning and transparency.  
 
 ## 🧠 Skills & Tools
 
