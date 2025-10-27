@@ -1,7 +1,8 @@
 # 👋 Hey, I'm Umaima!
 
 🎓 AI Grad Student @ UCF  
-✨ AI Research Assistant @ UCF  
+✨ AI Research Assistant @ UCF
+⚽ Machine Learning Engineer at Electronic Arts - MADDEN 2027
 🚂 Computer Vision Intern @ Norfolk Southern (Summer 2025)  
 🧠 Focus: Computer Vision | Artificial Intelligence | Machine Learning  
 📍 Orlando, FL  
