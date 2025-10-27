@@ -1,11 +1,11 @@
-👋 Hey, I'm Umaima!
+# 👋 Hey, I'm Umaima!
 
-🎓 AI Graduate Student @ University of Central Florida
-✨ AI Research Assistant @ UCF
-⚽ Machine Learning Engineer @ Electronic Arts — MADDEN 2027
-🚂 Computer Vision Intern @ Norfolk Southern (Summer 2025)
-🧠 Focus: Computer Vision | Artificial Intelligence | Machine Learning
-📍 Location: United States
+🎓 **AI Graduate Student** @ University of Central Florida  
+✨ **AI Research Assistant** @ UCF  
+⚽ **Machine Learning Engineer** @ Electronic Arts — MADDEN 2027  
+🚂 **Computer Vision Intern** @ Norfolk Southern (Summer 2025)  
+🧠 **Focus:** Computer Vision | Artificial Intelligence | Machine Learning  
+📍 **Location:** United States
 
 ## 🔍 About Me
 
